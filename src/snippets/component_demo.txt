@@ -1,0 +1,25 @@
+### This is a stateless function based component
+
+import React from 'react';
+
+const xxx = (props) => {
+
+};
+
+export default xxx;
+
+
+### Class based stateless component
+
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+
+import classes from './xxx.css';
+
+class XXX extends Component {
+    render () {
+
+        return xxx
+    }
+
+export default XXX;
